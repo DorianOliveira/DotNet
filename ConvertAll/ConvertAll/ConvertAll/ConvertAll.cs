@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ 
+ * ConvertTo - Generic conversion class version 1.0
+ * author: Dorian de Oliveira Torres
+ * dorian_oliveira@yahoo.com.br
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +15,7 @@ using System.Collections;
 namespace Conversion
 {
     /// <summary>
-    /// Generic class tools to convert objects in any type
+    /// Generic class tools to convert objects to any type
     /// </summary>
     public static class ConvertAll
     {
